@@ -11,6 +11,7 @@ h2 {
   margin-top: -30px;
 }
 
+<!-- Background: https://www.w3schools.com/css/css_background.asp --!>
 body {
   background-image: url('camping.JPG');
   background-size: cover;
@@ -24,6 +25,8 @@ body {
   border-radius: 8px;
   display: block;
 }
+
+<!-- Lists: https://www.w3schools.com/css/css_list.asp --!> 
 .volcano-list {
   list-style-type: none;         
   padding: 0;                     
@@ -58,6 +61,7 @@ p {
   color: white;
 }
 
+<!-- Navigation Bar: https://www.w3schools.com/css/css_navbar_horizontal.asp --!> 
 .topnav {
   background-color: #F9BE2B;
   font-family: 'Gloria Hallelujah', cursive;
@@ -97,6 +101,8 @@ background-image: url(ijenbackground.JPG)
 .rinjani-page {
   background-image: url(rinjanibackground.JPG)
 }
+
+<!-- Table: https://www.w3schools.com/css/css_table.asp --!> 
 
 .bromo-table, th, td {
   font-family: 'Gloria Hallelujah', cursive;
