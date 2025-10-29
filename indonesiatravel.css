@@ -1,0 +1,165 @@
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+ font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  margin-top: -30px;
+}
+
+body {
+  background-image: url('camping.JPG');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.volcano-image {
+  width: 450px;
+  margin: 20px auto 0 auto;
+  border-radius: 8px;
+  display: block;
+}
+.volcano-list {
+  list-style-type: none;         
+  padding: 0;                     
+  margin: 40px auto;             
+  width: 200px;                   
+  font-family: 'Gloria Hallelujah', cursive; 
+  
+}
+.volcano-list a {
+  text-decoration: none;  
+  color: black;          
+}
+
+.volcano-list li {
+  background-color: #F9BE2B;      
+  border-radius: 12px;            
+  padding: 20px;
+  margin-bottom: 15px;            
+  text-align: center;             
+  font-size: 1.2em;
+}
+  .volcano-list li:hover {
+    background-color: #F9862B;
+}
+
+.bromo-page{
+  background-image: url(bromobackground.JPG)
+}
+
+p {
+   font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+}
+
+.topnav {
+  background-color: #F9BE2B;
+  font-family: 'Gloria Hallelujah', cursive;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 400;        
+  height: 40px;          
+  line-height: 14px;    
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 13px 28px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #F9862B;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #90EAF5;
+  color: black;
+}
+
+.ijen-page { 
+background-image: url(ijenbackground.JPG)
+}
+
+.rinjani-page {
+  background-image: url(rinjanibackground.JPG)
+}
+
+.bromo-table, th, td {
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-top: -10px;
+  width: 400px; 
+  border: 1px solid black;
+  border-collapse: separate; 
+  border-radius: 15px; 
+  border-color: black; 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.bromo-table tr:hover {
+  background-color: #F9BE2B;
+}
+
+
+.ijen-table, th, td {
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-top: -10px;
+  width: 400px; 
+  border: 1px solid black;
+  border-collapse: separate; 
+  border-radius: 15px; 
+  border-color: black; 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.ijen-table tr:hover {
+  background-color: #F9BE2B;
+}
+
+.rinjani-table {
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-top: -10px;
+  width: 400px;
+  border: 1px solid black;
+  border-color: black;
+  border-collapse: separate; 
+  border-radius: 15px; 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.rinjani-table tr:hover {
+  background-color: #F9BE2B;
+}
+
+.ijen-list{ 
+font-family: 'Gloria Hallelujah', cursive; 
+  color: white;
+}
+
+.footer{
+color: white;
+  text-align: center;  
+}
+
+.list-rinjani{
+  font-family: 'Gloria Hallelujah', cursive; 
+  color: white;
+}
